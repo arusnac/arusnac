@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello!
+<hr>
+I'm a recent computer science grad looking for junior level web development roles.
+<br><br>
+My strengths are in React, NextJs, Node, JavaScript/TypeScript, HTML, and CSS. 
+<br>
+I have exposure to C#, ASP.NET, Java and SpringBoot.
+<br><br>
+I've built several projects with custom UI's, state management, headless CMS's and databases.
+<hr>
 
 <!--
 **arusnac/arusnac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
